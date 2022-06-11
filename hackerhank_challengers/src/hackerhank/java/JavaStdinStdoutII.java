@@ -13,7 +13,6 @@ public class JavaStdinStdoutII {
 
 	int i = scan.nextInt();
 
-	// limpa o buffer de um valor não-alfanumérico
 	double d = scan.nextDouble();
 	if (scan.hasNextLine()) {
 	    scan.nextLine();
