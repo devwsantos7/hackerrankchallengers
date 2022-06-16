@@ -2,7 +2,7 @@ package hackerhank.java;
 
 import java.util.Scanner;
 
-public class JavaStdinAndStdouI {
+public class JavaStdinAndStdoutI {
     
     public static void main(String[] args) {
 	
